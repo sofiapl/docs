@@ -1,3 +1,3 @@
 # docs
 
-See [ru/](ru/index)
+See [ru/](ru/index.md)
