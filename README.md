@@ -1,3 +1,3 @@
 # docs
 
-See ru/
+See [ru/](ru/)
